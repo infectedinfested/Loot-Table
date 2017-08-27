@@ -1,0 +1,46 @@
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\loot generator.exe.config
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\loot generator.exe
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\loot generator.pdb
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\App.g.cs
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\loot generator_MarkupCompile.cache
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\loot generator_MarkupCompile.lref
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\loot generator.g.resources
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\Loot_Table.Properties.Resources.resources
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\loot generator.csproj.GenerateResource.Cache
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\loot generator.exe
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\loot generator.pdb
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\client_secret.json
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\Google.Apis.Auth.dll
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\Google.Apis.Core.dll
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\Google.Apis.dll
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\Google.Apis.Sheets.v4.dll
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\Newtonsoft.Json.dll
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\System.Net.Http.dll
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\Google.Apis.xml
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\Google.Apis.Auth.xml
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\Google.Apis.Core.xml
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\Google.Apis.Sheets.v4.xml
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\Newtonsoft.Json.xml
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\View\Home.g.cs
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\View\PotionGen.g.cs
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\View\MainWindow.g.cs
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\View\CashGen.g.cs
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\View\LootGen.g.cs
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\View\Home.baml
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\View\PotionGen.baml
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\View\MainWindow.baml
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\View\CashGen.baml
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\View\LootGen.baml
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\View\ScrollGen.g.cs
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\View\ScrollGen.baml
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\loot generator.csprojResolveAssemblyReference.cache
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\loot generator.exe.manifest
+D:\Drive\VisualStudioWorkspace\loot generator\bin\Debug\loot generator.application
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\loot generator.exe.manifest
+D:\Drive\VisualStudioWorkspace\loot generator\obj\Debug\loot generator.application

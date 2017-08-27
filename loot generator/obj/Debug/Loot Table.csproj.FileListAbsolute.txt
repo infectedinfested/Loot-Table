@@ -1,0 +1,20 @@
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\bin\Debug\Loot Table.exe.config
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\bin\Debug\Loot Table.exe
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\bin\Debug\Loot Table.pdb
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\Loot Table.csprojResolveAssemblyReference.cache
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\MainWindow.g.cs
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\App.g.cs
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\Loot Table_MarkupCompile.cache
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\Loot Table_MarkupCompile.lref
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\MainWindow.baml
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\Loot Table.g.resources
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\Loot_Table.Properties.Resources.resources
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\Loot Table.csproj.GenerateResource.Cache
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\Loot Table.exe
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\Loot Table.pdb
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\Page1.g.cs
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\Page1.baml
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\Home.g.cs
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\Page2.g.cs
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\Home.baml
+C:\Users\kevin\AppData\Local\Temporary Projects\Loot Table\obj\Debug\Page2.baml
